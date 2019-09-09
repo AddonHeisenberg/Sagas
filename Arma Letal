@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
 <item>
 <title>[COLOR lime]•[/COLOR]1. Arma Letal 1 </title>
 <meta>
 <content>movie</content>
 <imdb></imdb>
-<title>(*. *)</title>
+<title>(.*?)</title>
+<link>
 <year>2019</year>
 </meta>
 <link>
@@ -13,6 +15,8 @@
 </link> 
  <thumbnail>https://static.pelisplus.co/movie/cover/original/c110e96571f4d992bb6213206b35052b.jpg<thumbnail>
 <fanart>https://static.pelisplus.co/movie/cover/original/c110e96571f4d992bb6213206b35052b.jpg</fanart>
+<genre>Accion.Humor.Suspense</genre>
+<year>2019</year>
 <info>
 Martin Riggs es un policía de Los Ángeles con tendencias suicidas. Su compañero Roger Murtaugh es un veterano y responsable policía y padre de familia. Juntos intentan frustrar una operación de contrabando de droga. Al mismo tiempo, a pesar de sus diferentes caracteres, se harán buenos amigos.</info> 
 </item>
