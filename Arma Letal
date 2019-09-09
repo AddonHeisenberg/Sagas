@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
---------------------------------------
 
 <item>
 <title>[COLOR lime]•[/COLOR]1. Arma Letal 1 </title>
@@ -18,9 +17,8 @@
 <info>
 Martin Riggs es un policía de Los Ángeles con tendencias suicidas. Su compañero Roger Murtaugh es un veterano y responsable policía y padre de familia. Juntos intentan frustrar una operación de contrabando de droga. Al mismo tiempo, a pesar de sus diferentes caracteres, se harán buenos amigos.</info> 
 </item>
---------------------------------------
-   
-   <item>
+  
+     <item>
 <title>[COLOR lime]•[/COLOR]2. Arma Letal 2 </title>
 <meta>
 <content>movie</content>
@@ -36,7 +34,6 @@ Martin Riggs es un policía de Los Ángeles con tendencias suicidas. Su compañe
 <info>
 La pareja de policías formada por Martin Riggs (Mel Gibson) y su compañero Roger Murtaugh (Danny Glover) se enfrenta ahora a una poderosa organización surafricana de traficantes de droga que opera en Estados Unidos. Su misión principal es la de proteger al testigo protegido Leo Getz (Joe Pesci), un alocado contable que ha blanqueado dinero para la banda y que en unos días va a testificar contra ellos. </info> 
 </item>
---------------------------------------
    
    <item>
 <title>[COLOR lime]•[/COLOR]3. Arma Letal 3 </title>
@@ -56,7 +53,6 @@ Martin Riggs y Roger Murtaugh, la incombustible pareja de policías de Los Ánge
 </info> 
 </item>
 
---------------------------------------
    
    <item>
 <title>[COLOR lime]•[/COLOR]4. Arma Letal 4 </title>
